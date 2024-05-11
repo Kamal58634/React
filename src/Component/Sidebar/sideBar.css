@@ -1,0 +1,30 @@
+.sideBar{
+    /* margin-left: 1rem; */
+    /* width: 200px; */
+    height:100vh;
+    background-color: #f2f8fc;
+    padding: 2rem;
+    position:sticky;
+}
+.sidebar__title{
+  margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+li{
+    display: block;
+    list-style: none;
+    margin-bottom: 7px;
+}
+li :active,li:hover{
+    background-color: #72bff2;
+    border-radius: 5px;
+
+}
+.sideBar__link{
+    display: flex;
+    align-items: center;
+    gap:3px
+}

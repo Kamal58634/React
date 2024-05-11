@@ -1,0 +1,10 @@
+.chart{
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 0 15px -5px gray;
+}
+.title{
+    text-align: center;
+    text-decoration:underline;
+    padding: 5px;
+}

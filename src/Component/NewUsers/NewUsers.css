@@ -1,0 +1,44 @@
+.newUserContainer{
+    margin: 10px 0;
+    padding: 20px;
+    box-shadow: 0 0 15px -10px gray;
+    
+}
+.newUser__title{
+    text-transform: capitalize;
+
+}
+.newUser__items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    
+
+}
+.newUserImage{
+    width: 40px;
+    height: 40px;
+
+}
+.newUser__description{
+    display: flex;
+    flex-direction: column;
+
+}
+.newUser__description__name{
+
+}
+.newUser__description__post{
+    font-weight: 100;
+    color: rgb(144, 132, 132);
+    
+}
+.newUser__btn{
+ border: none;
+ border-radius: 10px;
+}
+.newUser__icon{
+    padding: 5px;
+
+}

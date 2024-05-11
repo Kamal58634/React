@@ -1,0 +1,46 @@
+.featurs{
+    width: 350px;
+    /* background-color: rgb(255, 255, 240); */
+    box-shadow: 0 0 15px -5px gray;
+    /* height: 180px; */
+    margin-bottom:  1.5rem;
+}
+.contaner{
+    padding: 1.5rem;
+
+}
+.feature title{
+    /* font-size: 2rem; */
+    
+}
+.info-container{
+    display: flex;
+    gap:1rem ;
+    align-items: center;
+    margin:1rem 0;
+}
+.money{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.feature-rate{
+ display: flex;
+ gap:1px;
+ align-items: center;
+}
+.feature-rate__arrow{
+    font-size: 12px;
+    color: red;
+}
+.feature-rate__arrowUp{
+    font-size: 12px;
+    color: green;
+}
+.rate{
+
+}
+.compare{
+  padding: 10px;
+
+}
