@@ -19,7 +19,7 @@ export default function Feature(props) {
                          } 
 
                     </div>
-                </div>
+                </div >
                     <span className="compare">
                       Compare to last month
                     </span>
