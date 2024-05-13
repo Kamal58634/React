@@ -28,7 +28,7 @@ export default function SideBar() {
                 </li>   
                 <li className="sideBar__link">
                     <TimelineIcon></TimelineIcon>
-                   <Link> Analytics </Link>
+                   <Link to={"/localhoust/books"}> Analytics </Link>
                 </li>   
                 <li className="sideBar__link">
                     <TrendingUpIcon></TrendingUpIcon>

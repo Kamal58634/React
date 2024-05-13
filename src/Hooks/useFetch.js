@@ -13,6 +13,6 @@ export default function useFetch(url) {
             .catch(err=>console.log(err))
       
     }, [url]); // Include fetchedOnce in the dependency array
-    // console.log(fetchedOnce)
+    console.log(data)
     return [data];
 }
